@@ -1,6 +1,6 @@
 import Chart from "react-apexcharts"
 
-function BarChard() {
+function BarChart() {
 
     const options = {
         plotOptions: {
@@ -32,4 +32,4 @@ function BarChard() {
     );
 }
 
-export default BarChard;
+export default BarChart;
