@@ -1,4 +1,4 @@
-package com.HudLuca.DsVendas;
+package com.HudLuca.DsVendas.service;
 
 import java.util.List;
 import java.util.stream.Collectors;
