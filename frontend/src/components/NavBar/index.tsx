@@ -7,8 +7,8 @@ function NavBar() {
             <div className="container">
                 <nav className="my-2 my-md-0 mr-md-3">
                     <Link to="/">
-                   <img src={hudlucalogo} alt="HudLUCA" width="170" />
-                   </Link>
+                        <img src={hudlucalogo} alt="HudLUCA" width="170" />
+                    </Link>
                 </nav>
             </div>
         </div>
