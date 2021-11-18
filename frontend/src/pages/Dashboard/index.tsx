@@ -20,7 +20,7 @@ function Dashboard() {
 
                     <div className="col-sm-6">
                         <h5 className="text-center text-secondary">
-                            Total ve vendas (%)
+                            Total de vendas (%)
                         </h5>
                         <DonutChart />
                     </div>
