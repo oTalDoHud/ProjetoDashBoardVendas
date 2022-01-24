@@ -28,9 +28,7 @@ A aplicação consiste em uma pesquisa no banco de dados, onde esses dados são 
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
-- React Native
 - Bootstrap
-- Apex Charts
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
